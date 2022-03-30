@@ -1,0 +1,7 @@
+#!/bin/sh
+cd
+sudo -i
+cd
+cd ..
+cd tmp
+touch my_first_directory
